@@ -6,9 +6,8 @@ Just download it and write the command below and open your browser on localhost:
 
 ## Technologies used:
 #### Front-end:
-  - html5
+  - html5 + EJS
   - CSS + Bulma
-  - ejs
 #### Back-end:
 - mongodb + mongoose
 - node.js + express.js
