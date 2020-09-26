@@ -20,7 +20,7 @@ const BlogSchema = new Schema({
         type: String,
         required: true
     }
-}, { timestamp: true })// to add the live time for making or updating the document(blog).
+}, { timestamps: true })// to add the live time for making or updating the document(blog).
 
 // Create our model
 // It's the constructor that takes a schema and create an instance of a document
